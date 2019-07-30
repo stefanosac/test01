@@ -7,6 +7,8 @@ class Talk2
 	function getId()
 	{
 		$dev = 4;
+		$dev2 = 22;
+
 		return "<br/> il mio nome: Talk2"; 
 	}
 }
