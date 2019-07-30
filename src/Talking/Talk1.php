@@ -7,6 +7,7 @@ class Talk1
 	// aggiungo un commento
 	function getId()
 	{
+		$dev = 1;
 		$qui = 'qui';
 		$qua = 'qua';
 		$id = 44;
