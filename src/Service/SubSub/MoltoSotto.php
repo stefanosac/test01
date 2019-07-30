@@ -13,6 +13,7 @@ class MoltoSotto
 		$msg .= $se1->getId();
 
 		$dev1 = 1;
+		$dev2 = 2;
 		
 		return $msg; 
 	}
