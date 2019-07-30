@@ -6,6 +6,7 @@ class Talk2
 {
 	function getId()
 	{
+		$mast = 'qqq';
 		return "<br/> il mio nome: Talk2"; 
 	}
 }
