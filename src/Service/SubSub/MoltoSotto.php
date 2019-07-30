@@ -16,7 +16,7 @@ class MoltoSotto
 		$dev2 = 2;
 
 		$dev4 = 4;
-		$confl = 5;
+		$confl = 'dev';
 		
 		return $msg; 
 	}
