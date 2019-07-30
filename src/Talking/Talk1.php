@@ -8,6 +8,7 @@ class Talk1
 	function getId()
 	{
 		$dev = 1;
+		$dev2 = 2;
 		$qui = 'qui';
 		$qua = 'qua';
 		$id = 44;
