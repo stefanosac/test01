@@ -11,6 +11,8 @@ class MoltoSotto
 		$msg = '<br/>il mio nome: MoltoSotto prj02';
 		$se1 = new Serv1();
 		$msg .= $se1->getId();
+
+		$master1 = 1;
 		
 		return $msg; 
 	}
